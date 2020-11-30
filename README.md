@@ -1,0 +1,2 @@
+# Rock_Paper_Scissor_Game
+Using Tkinter GUI library in python created a offline Rock Paper Scissor game which will take your choice out of the three by the click of a button and the computer player will make a random choice and scores will updated. Scores will be updated based on the 3 possible conditions that is tie or either of the player winning. It is a fun game to play and also available offline!
